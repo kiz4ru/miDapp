@@ -82,7 +82,7 @@ truffle migrate --reset --network development
 ```
 
 ✅ Al final verás la dirección del contrato desplegado.  
-Copia esa dirección y pégala en tu `Hero.jsx` como:
+Copia esa dirección y pégala en tu `miDapp/dapp-frontend/src/components/Hero.jsx` como:
 
 ```js
 const CONTRACT_ADDRESS = '0xTuNuevaDireccion';
