@@ -14,8 +14,14 @@ Asegúrate de tener las siguientes versiones instaladas:
 | npm               | v10.7.0              |
 | Truffle           | v5.11.5              |
 | Ganache CLI       | v7.9.2               |
+<<<<<<< HEAD
 | MetaMask          | Última versión       |
 | Navegador         | Brave / Firefox      |
+=======
+| Docker            | (opcional)           |
+| MetaMask          | Última versión       |
+| Navegador         | Brave / Chrome       |
+>>>>>>> c6453e948fcdcb230a6ce359c9fe0004f1e37772
 
 ---
 
