@@ -163,4 +163,4 @@ contract SimpleStorage {
 
 ## 📜 Licencia
 
-MIT © Juan Carlos, 2025
+MIT © kiz4ru, 2025
