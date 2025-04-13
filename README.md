@@ -64,7 +64,7 @@ simple-storage-dapp/
 
 ## 💻 Cómo ejecutar la DApp localmente
 
-### 1. Inicia Ganache
+### 1. Inicia Ganache en el cmd o powershell
 
 ```bash
 ganache
