@@ -1,5 +1,5 @@
 # 🔐 SimpleStorage DApp – Blockchain con React, Truffle y Ganache
-
+![SimpleStorage DApp](image/imgweb.png)
 Una DApp (aplicación descentralizada) que permite **guardar y consultar un valor en la blockchain** de forma local utilizando Ethereum, Truffle, Ganache, React y MetaMask.
 
 ---
@@ -14,14 +14,10 @@ Asegúrate de tener las siguientes versiones instaladas:
 | npm               | v10.7.0              |
 | Truffle           | v5.11.5              |
 | Ganache CLI       | v7.9.2               |
-<<<<<<< HEAD
 | MetaMask          | Última versión       |
 | Navegador         | Brave / Firefox      |
-=======
-| Docker            | (opcional)           |
 | MetaMask          | Última versión       |
 | Navegador         | Brave / Chrome       |
->>>>>>> c6453e948fcdcb230a6ce359c9fe0004f1e37772
 
 ---
 
